@@ -1,0 +1,11 @@
+Top 10 most used words in the book:
+01 - the
+02 - and
+03 - of
+04 - I
+05 - to
+06 - my
+07 - a
+08 - 
+09 - in
+10 - was
